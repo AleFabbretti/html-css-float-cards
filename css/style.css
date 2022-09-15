@@ -39,7 +39,7 @@ body{
     width: calc(383.33px - 20px);
     background-color: black;
     float: left;
-    margin: 50px 0px 0px 20px;  
+    margin: 50px 0px 0px 10px;  
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;  
 }
 
@@ -50,8 +50,8 @@ body{
 }
 
 .descrizione{
-    float: right;
-    padding: 0px 30px 0px 15px;
+    float: left;
+    margin-left: 15px;
 }
 
 h3{
