@@ -33,14 +33,13 @@ body{
 
 .paragrafo{
     text-align: center;
-    padding-bottom: 50px;
 }
 
 .profilo{
     width: calc(100%/3-20px);
     background-color: black;
     float: left;
-    margin: 50px 10px;
+    margin: 50px 10px 0px;
 }
 
 .image{
@@ -57,13 +56,16 @@ body{
 
 h3{
     color: white;
+    padding: 13px 0 9px;
 }
 
-p{
+div > p{
     color: white;
+    padding-bottom: 5px;
 }
 
 a{
     color: #17ccf2;
+    border-top: 12px;
 }
 /* main */
