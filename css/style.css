@@ -52,10 +52,18 @@ body{
 .descrizione{
     float: right;
     width: calc(100%-100px);
-    padding: 0px 105px 0px 15px;
+    padding: 0px 60px 0px 15px;
 }
 
 h3{
     color: white;
+}
+
+p{
+    color: white;
+}
+
+a{
+    color: #17ccf2;
 }
 /* main */
