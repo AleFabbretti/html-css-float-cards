@@ -6,6 +6,10 @@
     padding: 0;
 }
 
+body{
+    font-family: 'Fredoka', sans-serif;
+}
+
 /* common */
 
 .clearfix::after{
