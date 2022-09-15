@@ -6,10 +6,6 @@
     padding: 0;
 }
 
-body{
-    font-family: 'Fredoka', sans-serif;
-}
-
 /* common */
 
 .clearfix::after{
@@ -25,6 +21,10 @@ body{
 
 /* base typography */
 
+body{
+    font-family: 'Fredoka', sans-serif;
+}
+
 .titolo{
     color: #E53170;
     text-align: center;
@@ -33,6 +33,7 @@ body{
 
 .paragrafo{
     text-align: center;
+    padding-bottom: 50px;
 }
 
 /* main */
