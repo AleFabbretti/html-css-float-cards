@@ -18,6 +18,21 @@ body{
     clear: both;
 }
 
+.container{
+    max-width: 1150px;
+    margin: auto;
+}
+
 /* base typography */
+
+.titolo{
+    color: #E53170;
+    text-align: center;
+    padding: 44px 0;
+}
+
+.paragrafo{
+    text-align: center;
+}
 
 /* main */
